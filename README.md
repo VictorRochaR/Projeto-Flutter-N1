@@ -24,11 +24,11 @@ App de Planejamento de Tarefas Domésticas
 
 Atualmente, projeto:
 
-1. aaaaaaaa
+1. Página inicial com adição de tarefas
 
-| <img src="https://placehold.co/1280x720/000000/FFB81C/png?text=Em%20Desenvolvimento" />  | <img src="https://placehold.co/1280x720/000000/FFB81C/png?text=Em%20Desenvolvimento" />  |
+| <img src="https://i.imgur.com/xtS2rrG.png" />  | <img src="https://i.imgur.com/eUBYUFv.png" />  |
 | ----- | ----- |
-| <p align="center">Blog</p> | <p align="center">Site</p> |
+| <p align="center">Lista</p> | <p align="center">Adicionando</p> |
 
 ## Contas Pessoais
 
